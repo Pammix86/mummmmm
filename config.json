@@ -30,7 +30,7 @@
               "enabled":"1"
           },
           "CB01":{
-              "url":"https://cb01new.loan",
+              "url":"https://cb01net.stream",
               "CB_PROXY":"0",
               "CB_ForwardProxy":"0",
               "MX_ForwardProxy":"0",
@@ -39,12 +39,12 @@
           },
           "DDLStream":{
               "url":"https://ddlstreamitaly.co",
-              "cookies" : {
-                  "ips4_device_key": null,
-                  "ips4_IPSSessionFront": null,
-                  "ips4_member_id": null,
-                  "ips4_login_key": null
-                  },
+              "cookies": {
+                    "ips4_device_key": "e76de2d09214c678fa18e317e1aab74b",
+                    "ips4_IPSSessionFront": "a43ab7f014e10d61c58412c436b2018b",
+                    "ips4_member_id": "4030150",
+                    "ips4_login_key": "5cb83aeddd61ee9dc9d8727726cabc94"
+              },
               "enabled":"1"
           },
           "Guardaserie":{
@@ -54,7 +54,7 @@
               "GS_PROXY":"0"
           },
           "GuardaHD":{
-              "url":"https://mostraguarda.stream",
+              "url":"https://guardahd.stream",
               "enabled":"1",
               "GH_ForwardProxy":"0",
               "GH_PROXY":"0"
@@ -72,12 +72,12 @@
               "AW_PROXY":"0"
           },
           "SkyStreaming":{
-              "url":"https://skystreaming.watch",
-              "enabled":"1"
+              "url":"https://skystreaming.blog",
+              "enabled":"0"
           },
           "DaddyLiveHD":{
               "url":"https://daddylive.mp",
-              "enabled":"1"
+              "enabled":"0"
           }
    },
    "General":{
